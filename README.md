@@ -1,4 +1,4 @@
-# Task Manager Application
+# Task Management App
 
 This project is a task management application where users can create, update, and delete tasks. It involves user authentication, database integration, and reminders/notifications. The application is built with a Node.js backend and a React frontend.
 
