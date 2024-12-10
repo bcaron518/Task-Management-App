@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 0.3em;
+}
+
+input, button {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+.task-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.task {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin: 1em;
+    width: 100%;
+    max-width: 400px;
+    background: #f9f9f9;
+    border-radius: 0.3em;
+}
